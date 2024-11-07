@@ -52,8 +52,6 @@
     --header-logo-link-position: absolute;
     --header-logo-link-top: -1rem;
     --header-logo-link-left: 0;
-    --color-white: #ffffff;
-    --color-primary: #007bff;
 }
 
 
@@ -290,6 +288,7 @@ a:active {
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
+
 
 .nav .nav-link::before {
     content: '';
