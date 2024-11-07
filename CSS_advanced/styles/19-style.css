@@ -141,18 +141,6 @@ a:active {
 }
 
 
-.footer-copyright {
-    margin: 0;
-    font-size: var(--font-size-small);
-    color: var(--text-color);
-}
-  
-  
-.footer ul {
-    text-align: right;
-}
-
-
 .navbar-menu {
     float: right;
 }
@@ -187,7 +175,6 @@ a:active {
 }
 
 
-
 ul.row {
     margin: 0;
     padding: 0;
@@ -206,4 +193,16 @@ ul.row {
     width: 50%;
     float: left;
     padding: 0.5rem;
+}
+
+
+.footer-copyright {
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+}
+  
+  
+.footer ul {
+    text-align: right;
 }
