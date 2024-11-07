@@ -109,25 +109,6 @@ a:active {
 }
 
 
-.card_services .card-title {
-    margin: 0;
-}
-
-
-.card_services a {
-    display: block;
-    padding: 2rem;
-    background-color: var(--color-light-grey);
-}
-
-
-.card_services a:hover {
-    color: var(--color-white);
-    background-color: var(--color-primary);
-    text-decoration: none;
-}
-
-
 .section {
     padding: var(--section-padding);
 }
@@ -255,4 +236,23 @@ ul.row {
 
 .social-link > svg {
     fill: var(--text-color);
+}
+
+
+.card_services .card-title {
+    margin: 0;
+}
+
+
+.card_services a {
+    display: block;
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+}
+
+
+.card_services a:hover {
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    text-decoration: none;
 }
