@@ -274,9 +274,6 @@ a:active {
     margin: var(--nav-item-margin);
 }
 
-.nav-item-link-hover {
-    color: var(--color-white);
-}
 
 
 .nav .nav-link {
